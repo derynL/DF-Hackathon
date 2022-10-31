@@ -1,4 +1,7 @@
 # DF-Hackathon
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hochungyan_DF-Hackathon&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=hochungyan_DF-Hackathon)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hochungyan_DF-Hackathon&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=hochungyan_DF-Hackathon)
+
 Design from wireframe using CSS grids and flex-box/ HTML
 
 ## User Stories
